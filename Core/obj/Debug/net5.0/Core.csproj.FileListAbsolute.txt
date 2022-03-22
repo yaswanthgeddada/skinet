@@ -1,0 +1,12 @@
+D:\DotnetCore\E-COM with ang and dotnet\Core\bin\Debug\net5.0\Core.deps.json
+D:\DotnetCore\E-COM with ang and dotnet\Core\bin\Debug\net5.0\Core.dll
+D:\DotnetCore\E-COM with ang and dotnet\Core\bin\Debug\net5.0\ref\Core.dll
+D:\DotnetCore\E-COM with ang and dotnet\Core\bin\Debug\net5.0\Core.pdb
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.dll
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\ref\Core.dll
+D:\DotnetCore\E-COM with ang and dotnet\Core\obj\Debug\net5.0\Core.pdb
